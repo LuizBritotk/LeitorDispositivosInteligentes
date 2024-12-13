@@ -97,7 +97,7 @@ O projeto segue a estrutura de diretórios organizada para Clean Architecture:
 
 3. **Execute o projeto:**:
    ```bash
-   dotnet run --project LeitorDispositivosInteligentes.Interface
+   dotnet run --project LDI.Interface
 4. **EAcesse a API:**:
 - A API estará disponível no endereço http://localhost:5000.
 - Você pode testar os endpoints utilizando o Postman ou ferramentas similares.
