@@ -1,0 +1,6 @@
+@LDI.Interface_HostAddress = http://localhost:5202
+
+GET {{LDI.Interface_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
